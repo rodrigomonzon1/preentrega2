@@ -7,3 +7,7 @@ En las siguientes etapas del trabajo, se implementarán modelos de IA para estos
 
 Texto-Texto: Identificar patrones de phishing y evaluar la seguridad de las contraseñas.
 Texto-Imagen: Crear visualizaciones educativas que expliquen cómo reconocer correos de phishing y cómo generar contraseñas seguras.
+
+
+
+COLLAB: https://colab.research.google.com/drive/1k8Ybp8Ac090OrKS5x_CkZV0jzWc2Dp1q?usp=sharing

@@ -10,4 +10,4 @@ Texto-Imagen: Crear visualizaciones educativas que expliquen cómo reconocer cor
 
 
 
-COLLAB: https://colab.research.google.com/drive/1k8Ybp8Ac090OrKS5x_CkZV0jzWc2Dp1q?usp=sharing
+COLAB: https://colab.research.google.com/drive/1k8Ybp8Ac090OrKS5x_CkZV0jzWc2Dp1q?usp=sharing
